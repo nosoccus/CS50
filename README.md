@@ -1,2 +1,1 @@
-
-There is my pset for CS50
+# There are my psets and certificate for CS50
